@@ -9,7 +9,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		// hab nichts zu tun
 		System.out.println("Check 1 2 1 2");
+		// worldstarhiphop lol
 		System.out.println("332424");
+		// hip hop honeys
 
 	}
 
